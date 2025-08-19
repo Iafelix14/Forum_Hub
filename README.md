@@ -1,9 +1,5 @@
 # Fórum Hub - API REST para Gerenciamento de Tópicos
 
-**Autor:** Manus AI  
-**Versão:** 1.0.0  
-**Data:** Agosto 2025
-
 ## Visão Geral
 
 O Fórum Hub é uma aplicação backend robusta desenvolvida em Python utilizando o framework Flask, projetada para gerenciar um sistema de fórum online onde usuários podem criar, visualizar, editar e excluir tópicos de discussão. A aplicação implementa um sistema completo de autenticação e autorização baseado em JWT (JSON Web Tokens), garantindo que apenas usuários autenticados possam realizar operações sensíveis e que cada usuário tenha controle total sobre seus próprios tópicos.
